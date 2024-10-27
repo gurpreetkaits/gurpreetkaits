@@ -6,7 +6,7 @@ Full Stack developer crafting web experiences. Writing about tech at [larachamp.
 
 ## Side Projects
 
-#### Recurring Expense Tracker
+#### Expense Tracker
 Track your recurring expenses easily. Built with Vue.js
 [View →](https://recurrring-expense-tracker.vercel.app/)
 
