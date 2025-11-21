@@ -3,4 +3,4 @@
 Full Stack developer crafting web experiences. Writing about tech at [larachamp.com](https://larachamp.com)
 
 ---
-Currently building something new 🚀
+ building 🚀
