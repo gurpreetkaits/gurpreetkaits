@@ -5,6 +5,7 @@ Full Stack developer crafting web experiences. Writing about tech at [larachamp.
 ---
  building 🚀
 
+- 🎬 [ScreenSense](https://github.com/gurpreetkaits/screensense) - Screen recording and sharing, an affordable Loom alternative
 - 📡 [Distribution Channel Finder](https://github.com/gurpreetkaits/screensense-channel-finder) - In-house tool to find distribution channels for ScreenSense across Reddit, Hacker News & more
 - ⚡ [Claude and Worktrees](https://github.com/gurpreetkaits/claude-and-worktrees) - Trying to be 10x more productive
 - 🗄️ [AdminBase](https://github.com/gurpreetkaits/adminbase) - Connect databases and see data from multiple projects in one view
