@@ -12,3 +12,5 @@ Full Stack developer crafting web experiences. Writing about tech at [larachamp.
 - 💰 [Daily Expense Tracker](https://github.com/gurpreetkaits/dailyexpensetracker) - Track daily expenses with ease
 - 🖥️ [MyOS](https://github.com/gurpreetkaits/myos) - Hobby Operating System, building it for learning and fun
 - 📞 [Delivery Assistant](https://github.com/gurpreetkaits/delivery-assistant) - AI phone assistant that guides delivery drivers using Twilio + Claude
+- 🇮🇳 [Cost of Living India](https://github.com/gurpreetkaits/costoflivingindia) - Explore and compare the cost of living across India
+- 🏛️ [Civic Forum](https://github.com/gurpreetkaits/civic-forum) - Writing about Indian civic issues to spread awareness
