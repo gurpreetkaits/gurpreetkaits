@@ -14,3 +14,4 @@ Full Stack developer crafting web experiences. Writing about tech at [larachamp.
 - 📞 [Delivery Assistant](https://github.com/gurpreetkaits/delivery-assistant) - AI phone assistant that guides delivery drivers using Twilio + Claude
 - 🇮🇳 [Cost of Living India](https://github.com/gurpreetkaits/costoflivingindia) - Explore and compare the cost of living across India
 - 🏛️ [Civic Forum](https://github.com/gurpreetkaits/civic-forum) - Writing about Indian civic issues to spread awareness
+- 📋 [ClipPost](https://github.com/gurpreetkaits/clippost) - Clip and post content seamlessly
