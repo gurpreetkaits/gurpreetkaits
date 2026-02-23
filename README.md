@@ -16,3 +16,4 @@ Full Stack developer crafting web experiences. Writing about tech at [larachamp.
 - 🏛️ [Civic Forum](https://github.com/gurpreetkaits/civic-forum) - Writing about Indian civic issues to spread awareness
 - 📋 [ClipPost](https://github.com/gurpreetkaits/clippost) - Clip and post content seamlessly
 - 📋 [ResumeCli](https://github.com/gurpreetkaits/resumecli) - Build resume using cli
+- 🔐 [SecureVault](https://github.com/gurpreetkaits/securevault) - Chrome password manager with AES-256-GCM encryption
